@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 42f7a8ac93a8a4c4582dc5539c6e7952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7626633733295381819
+    second: alex_dreng_right_0
+  - first:
+      213: -2525211019011950320
+    second: alex_dreng_right_1
+  - first:
+      213: 696270322023848885
+    second: alex_dreng_right_2
+  - first:
+      213: -7161375771552090820
+    second: alex_dreng_right_3
+  - first:
+      213: -441327657211543792
+    second: alex_dreng_right_4
+  - first:
+      213: -7939403500258774039
+    second: alex_dreng_right_5
+  - first:
+      213: 7838623753488847637
+    second: alex_dreng_left_0
+  - first:
+      213: -44591436386722560
+    second: alex_dreng_left_1
+  - first:
+      213: -1529565276404273698
+    second: alex_dreng_left_2
+  - first:
+      213: -5968808151794923461
+    second: alex_dreng_left_3
+  - first:
+      213: -4725914145993330998
+    second: alex_dreng_left_4
+  - first:
+      213: 1039135396699125301
+    second: alex_dreng_left_5
+  - first:
+      213: -153406590835158365
+    second: alex_dreng_jumpr_0
+  - first:
+      213: -4308388192227659535
+    second: alex_dreng_jumpr_1
+  - first:
+      213: 1436829079877222658
+    second: alex_dreng_jumpr_2
+  - first:
+      213: -3347573635856378108
+    second: alex_dreng_jumpr_3
+  - first:
+      213: -1157053192808337773
+    second: alex_dreng_jumpr_4
+  - first:
+      213: -7041965880434538654
+    second: alex_dreng_jumpr_5
+  - first:
+      213: -4507728001995076007
+    second: alex_dreng_jumpl_0
+  - first:
+      213: -5119373965879729774
+    second: alex_dreng_jumpl_1
+  - first:
+      213: -8875774943663502912
+    second: alex_dreng_jumpl_2
+  - first:
+      213: 3224873481915279096
+    second: alex_dreng_jumpl_3
+  - first:
+      213: 8265348783980227102
+    second: alex_dreng_jumpl_4
+  - first:
+      213: -7560103298617428375
+    second: alex_dreng_jumpl_5
+  - first:
+      213: 301037748751370262
+    second: alex_dreng_sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alex_dreng_right_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 800
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d151909fe37d960800000000000000
+      internalID: 7626633733295381819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_right_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 799
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019f3e415f5a4fcd0800000000000000
+      internalID: -2525211019011950320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_right_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 799
+        width: 79
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd0eb3b26a9a900800000000000000
+      internalID: 696270322023848885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_right_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 798
+        width: 88
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357c89adaead9c90800000000000000
+      internalID: -7161375771552090820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_right_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 799
+        width: 97
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb95285d610e9f0800000000000000
+      internalID: -441327657211543792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_right_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 799
+        width: 79
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3359ec49291d190800000000000000
+      internalID: -7939403500258774039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 514
+        width: 79
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51354a2e5c268cc60800000000000000
+      internalID: 7838623753488847637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 514
+        width: 97
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d152a2354916ff0800000000000000
+      internalID: -44591436386722560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 514
+        width: 88
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda62f2c74e5cae0800000000000000
+      internalID: -1529565276404273698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 514
+        width: 79
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cecb2c988a2da0800000000000000
+      internalID: -5968808151794923461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 514
+        width: 87
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee2198f1e2a6eb0800000000000000
+      internalID: -4725914145993330998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_left_5
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 515
+        width: 99
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53639c14320cb6e00800000000000000
+      internalID: 1039135396699125301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21117b48dfeddf0800000000000000
+      internalID: -153406590835158365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 296
+        width: 80
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f078c714c78534c0800000000000000
+      internalID: -4308388192227659535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 296
+        width: 84
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201880d7f64a0f310800000000000000
+      internalID: 1436829079877222658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 338
+        width: 79
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407515fa3870b81d0800000000000000
+      internalID: -3347573635856378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 295
+        width: 84
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6d60604251ffe0800000000000000
+      internalID: -1157053192808337773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpr_5
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 296
+        width: 79
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26747487759e54e90800000000000000
+      internalID: -7041965880434538654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 10
+        width: 79
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8001e3455171c0800000000000000
+      internalID: -4507728001995076007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 84
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2912b5b608454f8b0800000000000000
+      internalID: -5119373965879729774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 52
+        width: 79
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9cf90f6b9e2d480800000000000000
+      internalID: -8875774943663502912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 10
+        width: 84
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6232f785d01cc20800000000000000
+      internalID: 3224873481915279096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 10
+        width: 80
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a29d56dea64b270800000000000000
+      internalID: 8265348783980227102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alex_dreng_jumpl_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 10
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96636a4ea1e151790800000000000000
+      internalID: -7560103298617428375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
